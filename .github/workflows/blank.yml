@@ -30,4 +30,4 @@ jobs:
         # with:
           # repository: playrom/demo-action-child
           # token: ${{ secrets.ACTION_GITHUB_TOKEN }}
-      - run: git submodule foreach git tag -m "tagName" ${{ github.refName }}
+      - run: git submodule foreach git tag -m "tagName" ${{ github.ref_name }}
