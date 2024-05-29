@@ -1,6 +1,6 @@
 [submodule "module-base"]
 	path = module-base
-	url = git@github.com:giorgio-romano_amplifon/demo-action-base.git
+	url = https://Playrom@github.com/Playrom/demo-action-base.git
 [submodule "module-child"]
 	path = module-child
-	url = git@github.com:giorgio-romano_amplifon/demo-action-child.git
+	url = https://Playrom@github.com/Playrom/demo-action-child.git
