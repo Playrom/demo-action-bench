@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../base/DemoBase.xcodeproj">
+      location = "group:module-base/DemoBase.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:./module-child">
    </FileRef>
 </Workspace>
