@@ -5,6 +5,6 @@
       location = "group:module-base/DemoBase.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:./module-child">
+      location = "group:./demo-action-child">
    </FileRef>
 </Workspace>
